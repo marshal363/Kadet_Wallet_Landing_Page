@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Kadet_Wallet_Landing_Page/static/css/main.0a60dacc.css",
+    "main.js": "/Kadet_Wallet_Landing_Page/static/js/main.43bb0e97.js",
+    "static/js/726.3cb22d46.chunk.js": "/Kadet_Wallet_Landing_Page/static/js/726.3cb22d46.chunk.js",
+    "static/media/kadet_logo.tiff": "/Kadet_Wallet_Landing_Page/static/media/kadet_logo.2f62c16d044404ed38a1.tiff",
+    "static/media/kadet_logo2.tiff": "/Kadet_Wallet_Landing_Page/static/media/kadet_logo2.a4ec7684b45b9c7690c6.tiff",
+    "static/media/Community_Planet.png": "/Kadet_Wallet_Landing_Page/static/media/Community_Planet.a486a807298a357b72b8.png",
+    "static/media/kola_single_mockup.png": "/Kadet_Wallet_Landing_Page/static/media/kola_single_mockup.626a17958d53f83c985e.png",
+    "static/media/Kadet_University_Planet_asset.png": "/Kadet_Wallet_Landing_Page/static/media/Kadet_University_Planet_asset.9274ced6099ce6b553f5.png",
+    "static/media/hero_kadet_mockup.png": "/Kadet_Wallet_Landing_Page/static/media/hero_kadet_mockup.0aeb756c0553f464c3d1.png",
+    "static/media/kadet_mockup_3.png": "/Kadet_Wallet_Landing_Page/static/media/kadet_mockup_3.de09d1815fc9e4a219fe.png",
+    "static/media/Create_account_hero.png": "/Kadet_Wallet_Landing_Page/static/media/Create_account_hero.6eed6eed38c7623c87b7.png",
+    "static/media/hero_koala_mockup.webp": "/Kadet_Wallet_Landing_Page/static/media/hero_koala_mockup.68af9395f0026ea61dee.webp",
+    "static/media/kadet_nfts.png": "/Kadet_Wallet_Landing_Page/static/media/kadet_nfts.4c95d5a99b38a31ae9ce.png",
+    "static/media/kadet_secure.png": "/Kadet_Wallet_Landing_Page/static/media/kadet_secure.b05aa1175e57e5155878.png",
+    "static/media/kadet_dashboard.png": "/Kadet_Wallet_Landing_Page/static/media/kadet_dashboard.34154cd7d9f9a3ebd507.png",
+    "static/media/chainless_transactions_kadet.png": "/Kadet_Wallet_Landing_Page/static/media/chainless_transactions_kadet.48d99ebe462c48394e24.png",
+    "static/media/transaction.png": "/Kadet_Wallet_Landing_Page/static/media/transaction.5aea0bc06dd4e1aef746.png",
+    "static/media/overview.png": "/Kadet_Wallet_Landing_Page/static/media/overview.5dbfd8a1da40b6253f86.png",
+    "static/media/send_recieve.png": "/Kadet_Wallet_Landing_Page/static/media/send_recieve.99eb4c8ee977560658fc.png",
+    "static/media/buy_kda.png": "/Kadet_Wallet_Landing_Page/static/media/buy_kda.40972d1e4da67f56a9aa.png",
+    "static/media/chrome_logo.png": "/Kadet_Wallet_Landing_Page/static/media/chrome_logo.f58e4c125ee0a83d2833.png",
+    "static/media/kadet_logo.jpeg": "/Kadet_Wallet_Landing_Page/static/media/kadet_logo.f27180b7f00634eda3b2.jpeg",
+    "static/media/trade-nfts.webp": "/Kadet_Wallet_Landing_Page/static/media/trade-nfts.a616317f6fa538f542c9.webp",
+    "static/media/kadet_logo2 Background Removed.png": "/Kadet_Wallet_Landing_Page/static/media/kadet_logo2 Background Removed.574c0b6109a7e9af8b03.png",
+    "static/media/private_secure.png": "/Kadet_Wallet_Landing_Page/static/media/private_secure.a6834b8faa986a0f6a71.png",
+    "static/media/dark-light-mode.webp": "/Kadet_Wallet_Landing_Page/static/media/dark-light-mode.08bb7f864ce0fbe78aa0.webp",
+    "static/media/chainless-transaction-fees.webp": "/Kadet_Wallet_Landing_Page/static/media/chainless-transaction-fees.59d205166bd5909d9723.webp",
+    "static/media/chainless-transactions.webp": "/Kadet_Wallet_Landing_Page/static/media/chainless-transactions.b89cadfcd3b22dfa7d22.webp",
+    "static/media/token-overview.webp": "/Kadet_Wallet_Landing_Page/static/media/token-overview.40414ebb4b71445c16d3.webp",
+    "static/media/walletconnect.webp": "/Kadet_Wallet_Landing_Page/static/media/walletconnect.63cb69ad9adb433f1dbe.webp",
+    "static/media/secure-wallet.webp": "/Kadet_Wallet_Landing_Page/static/media/secure-wallet.85e0c7eee75955fc08e5.webp",
+    "index.html": "/Kadet_Wallet_Landing_Page/index.html",
+    "main.0a60dacc.css.map": "/Kadet_Wallet_Landing_Page/static/css/main.0a60dacc.css.map",
+    "main.43bb0e97.js.map": "/Kadet_Wallet_Landing_Page/static/js/main.43bb0e97.js.map",
+    "726.3cb22d46.chunk.js.map": "/Kadet_Wallet_Landing_Page/static/js/726.3cb22d46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a60dacc.css",
+    "static/js/main.43bb0e97.js"
+  ]
+}
